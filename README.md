@@ -1,1 +1,2 @@
 # Missing-Numbers
+This code solves the Missing Numbers problem by identifying numbers present in the second array but missing or less frequent in the first array. It uses dictionaries to count frequencies in both arrays, then compares them to find discrepancies in the number of occurrences. The algorithm collects numbers that either don't appear in the first array or appear fewer times, returning them in sorted order.
